@@ -4,7 +4,7 @@
 
 baseurl = "/"
 languageCode = "en-us"
-theme = "terminal"
+theme = "smol"
 paginate = 5
 
 [params]
