@@ -31,6 +31,6 @@ The following websites also contain a wide variety of tutorials for many differe
 - [PluralSight](http://www.pluralsight.com/) - similar to Lynda, but with a focus on developer and IT courses
 - [Udemy](https://www.udemy.com/) - offers courses on thousands of different topics - programming is a heavily covered subject here though
 
-I won't outright say that piracy is a good idea, but almost all of these can be easily downloaded for free using "alternate methods"... I'm just putting it out there.
+I'm not saying that piracy is a good idea, but almost all of these can be easily downloaded for free using "alternate methods"... I'm just putting it out there.
 
 In general, edX, OpenCulture, MIT OpenCourseware, and Stanford Engineering Everywhere tend to contain more difficult thorough, and demanding courses, whereas Codecademy and Khan Academy tend to focus on giving a simpler introduction to programming intended for beginners. Udemy, Coursera and Udacity are a sort of "middle ground" between the two.
